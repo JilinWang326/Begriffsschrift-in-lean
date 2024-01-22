@@ -1,2 +1,4 @@
 # Mechanization-of-meta-theoretical-results-about-Frege-s-Begriffsschrift-in-Lean
 This is the mechanization of Duarte's independence proof of Begriﬀsschrift in Lean in order to have a better understanding the formal system of Begriﬀsschrift.
+
+We have defined the required formula and three-valued semantics using an inductive definition, and we have written the necessary axioms in the style of Hilbert. However, Duarte's original paper（DOI:10.13140/RG.2.2.10294.70724） did not clearly prove the validity of the substitution axiom (i.e. Axiom 7) in three-valued semantics, so the challenge here lies in characterizing the substitution axiom. 'Alternative' document was a previous attempt, but we found a better method in 'valid' document that can replace general propositions (defined using open formulas and free variables). Therefore, we did not continue with 'alternative' and instead completed the entire proof in the context of open formulas in 'valid' document.
