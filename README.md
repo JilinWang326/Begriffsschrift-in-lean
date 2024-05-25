@@ -5,5 +5,7 @@ We have defined the required formula and three-valued semantics using an inducti
 
 # References
 [1] A. B. Duarte. L ́ogica e Aritm ́etica na Filosofia da Matem ́atica de Frege. PhD thesis, PUC-Rio, 2009.
+
 [2] G. Frege. Conceptual Notation, and Related Articles. Translated [From the German] and Edited with a Biography and Introduction by Terrell Ward Bynum. Oxford University Press UK, Oxford, England, 1972.
+
 [3] D. van Dalen. Logic and Structure. Springer Verlag, New York, 1980.
