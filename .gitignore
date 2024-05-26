@@ -1,8 +1,0 @@
-/build
-/lake-packages/*
-/backup/*
-/.cache/*
-/fol/*
-IFOL3.lean
-WJL.lean
-test.lean
